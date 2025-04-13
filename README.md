@@ -17,6 +17,10 @@ Creating Instagram user profile screen using Jetpack Compose
 - Compose best practices and Material3 design
 
 
+![Download APK here](https://github.com/shivam995/DemoInstaProfile/releases/download/v1.0.0/app.apk)
+
+
+
 
 ![Profile Screen](https://github.com/user-attachments/assets/b3db8943-b202-48eb-8419-c49b9dc45ca8)
 
