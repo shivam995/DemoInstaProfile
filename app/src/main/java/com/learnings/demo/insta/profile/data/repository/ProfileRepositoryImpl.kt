@@ -17,11 +17,11 @@ class ProfileRepositoryImpl : ProfileRepository {
             username = "myselfshivam_",
             bio = "Woods are lovely dark and deep, but I have promises to keep and miles to go, before I sleep! 🌍",
             profileImageUrl = "https://picsum.photos/200",
-            posts = 120,
             followers = 3400,
             following = 180,
             highlights = List(6) { Highlight(title = "Highlight", imageUrl = randomUrl) },
-            postsImages = List(22) { Post(imageUrl = randomUrl, title = "") }
+            postsImages = List(22) { Post(imageUrl = randomUrl, title = "") },
+            posts = 22
         )
     }
 }
