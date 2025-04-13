@@ -15,3 +15,8 @@ Creating Instagram user profile screen using Jetpack Compose
 - **Clean Architecture layers** (Domain, Data, UI)
 - **Koin** for Dependency Injection
 - Compose best practices and Material3 design
+
+
+
+![Profile Screen](https://github.com/user-attachments/assets/b3db8943-b202-48eb-8419-c49b9dc45ca8)
+
