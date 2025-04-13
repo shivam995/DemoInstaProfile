@@ -18,6 +18,7 @@
         <activity
             android:name=".presentation.profile.MainActivity"
             android:exported="true"
+            android:screenOrientation="portrait"
             android:label="@string/app_name"
             android:theme="@style/Theme.DemoInstaProfile">
             <intent-filter>
